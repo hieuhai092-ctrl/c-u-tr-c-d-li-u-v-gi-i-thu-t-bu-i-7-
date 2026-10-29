@@ -1,0 +1,8 @@
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\bin\Debug\bài 3.exe.config
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\bin\Debug\bài 3.exe
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\bin\Debug\bài 3.pdb
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\obj\Debug\bài 3.csproj.AssemblyReference.cache
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\obj\Debug\bài 3.csproj.CoreCompileInputs.cache
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\obj\Debug\bài 3.exe
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\obj\Debug\bài 3.pdb
+C:\ctdl gt\25dh110123 bùi công kỳ buổi 7\bài 3\obj\Debug\bài 3.exe.config
